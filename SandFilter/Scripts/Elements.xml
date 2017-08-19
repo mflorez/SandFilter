@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\_references.js" Url="Scripts/_references.js" />
+    <File Path="Scripts\camljs.js" Url="Scripts/camljs.js" />
+    <File Path="Scripts\typings\camljs\camljs.d.ts" Url="Scripts/typings/camljs/camljs.d.ts" />
+    <File Path="Scripts\jquery-1.6.4-vsdoc.js" Url="Scripts/jquery-1.6.4-vsdoc.js" />
+    <File Path="Scripts\jquery-1.6.4.min.js" Url="Scripts/jquery-1.6.4.min.js" />
+    <File Path="Scripts\jquery-1.6.4.js" Url="Scripts/jquery-1.6.4.js" />
+    <File Path="Scripts\jquery-ui-1.11.1.js" Url="Scripts/jquery-ui-1.11.1.js" />
+    <File Path="Scripts\jquery-ui.min-1.11.1.js" Url="Scripts/jquery-ui.min-1.11.1.js" />
+  </Module>
+  <!--<CustomAction
+    ScriptSrc="~SiteCollection/Scripts/jquery-1.6.4.min.js"
+    Location="ScriptLink"
+    Sequence="10">
+  </CustomAction>
+  <CustomAction 
+    ScriptSrc="~SiteCollection/Scripts/jquery-ui.min-1.11.1.js"
+    Location="ScriptLink"
+    Sequence="12">
+  </CustomAction>
+  <CustomAction
+    ScriptSrc="~SiteCollection/Scripts/camljs.js"
+    Location="ScriptLink"
+    Sequence="13">
+  </CustomAction>-->
+</Elements>

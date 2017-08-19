@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="360f0103-ab9d-48c1-887a-d4a8d0ed958c" solutionId="360f0103-ab9d-48c1-887a-d4a8d0ed958c" resetWebServer="false" name="SandFilter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bdee7b84-a010-4a7d-b997-75aedb3ea3ee" />
+  </features>
+</package>
