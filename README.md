@@ -1,5 +1,5 @@
-# Project Description
-This project is a sandbox SharePoint CAML query list filter web part written using jQuery UI, ECMAScript Client Object Model (JSOM), REST API, and CamlJs.
+# SandFilter
+SharePoint CAML query list filter sandbox web part written using jQuery UI, ECMAScript Client Object Model (JSOM), REST API, and CamlJs.
 
 This is a simple SharePoint 2010 list filter web part that incorporates: jQuery UI, ECMAScript Client Object Model (JSOM), JSON, REST API, and CamlJs in an easy to deploy sandbox web part. 
 This web part was developed as a way to test how all of these technologies can be used to create a user-friendly responsive solution in the hopes that some of these lessons learned can be applied to more complex implementations using these diverse technologies.
